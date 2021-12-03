@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VM9VEQSjEv+JA+g5GlTDfE9WKpbur7+R6nBZAZG92IhB8U0EqJHhiEwS2RUK9UH8CChij2XXuLWr1WW+HfQHbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\AngularWebAPI\\BookStoreWebAPI\\BookStoreWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gkk2351\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gkk2351\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gkk2351\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gkk2351\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.2.3\\swashbuckle.aspnetcore.annotations.6.2.3.nupkg.sha512",
+    "C:\\Users\\gkk2351\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gkk2351\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gkk2351\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

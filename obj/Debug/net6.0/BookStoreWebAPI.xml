@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStoreWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BookStoreWebAPI.Controllers.BookController.AddBook(BookStoreWebAPI.Data.Models.Book)">
+            <summary>
+            Add a new Book to the store
+            </summary>        
+            <param name="body">Book object that needs to be added to the store</param>
+            <response code="405">Invalid input</response>
+        </member>
+    </members>
+</doc>
